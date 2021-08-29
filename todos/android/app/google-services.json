@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040088898707",
+    "project_id": "bitkaptodolist",
+    "storage_bucket": "bitkaptodolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040088898707:android:39641c0086e2affa994166",
+        "android_client_info": {
+          "package_name": "com.example.todos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040088898707-msohh8ts88kf7fcds8pcegcr32huf8th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByENUoWo6YIEdSptsXCvGmF2sC6toZIBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040088898707-msohh8ts88kf7fcds8pcegcr32huf8th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
